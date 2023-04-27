@@ -1,1 +1,1 @@
-# minimalist-clock
+# minimalist-clock.github.io
